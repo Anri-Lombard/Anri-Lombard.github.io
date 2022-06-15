@@ -1693,7 +1693,7 @@ header.header {
   width: 100%;
 }
 .with-love {
-  color: #f00;
+  color: #03fc0f;
   display: inline-block;
   margin: 0 5px;
   animation: icon-animate 1.33s ease-in-out infinite;
@@ -2826,7 +2826,7 @@ mjx-container[display='true'] + br {
   transition: all 0.2s ease-in-out;
 }
 .links-of-author a::before {
-  background: #ffda4d;
+  background: #3e58ec;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
